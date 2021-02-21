@@ -1,0 +1,30 @@
+C:\Users\1\source\repos\Test ARMO\Test ARMO\bin\Debug\Test ARMO.exe.config
+C:\Users\1\source\repos\Test ARMO\Test ARMO\bin\Debug\Test ARMO.exe
+C:\Users\1\source\repos\Test ARMO\Test ARMO\bin\Debug\Test ARMO.pdb
+C:\Users\1\source\repos\Test ARMO\Test ARMO\obj\Debug\Test ARMO.csprojAssemblyReference.cache
+C:\Users\1\source\repos\Test ARMO\Test ARMO\obj\Debug\Test_ARMO.Form1.resources
+C:\Users\1\source\repos\Test ARMO\Test ARMO\obj\Debug\Test_ARMO.Properties.Resources.resources
+C:\Users\1\source\repos\Test ARMO\Test ARMO\obj\Debug\Test ARMO.csproj.GenerateResource.cache
+C:\Users\1\source\repos\Test ARMO\Test ARMO\obj\Debug\Test ARMO.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Test ARMO\Test ARMO\obj\Debug\Test ARMO.exe
+C:\Users\1\source\repos\Test ARMO\Test ARMO\obj\Debug\Test ARMO.pdb
+C:\Users\Vladimir Unwavering\Downloads\Test ARMO.zip\Test ARMO\Test ARMO\bin\Debug\Test ARMO.exe.config
+C:\Users\Vladimir Unwavering\Downloads\Test ARMO.zip\Test ARMO\Test ARMO\bin\Debug\Test ARMO.exe
+C:\Users\Vladimir Unwavering\Downloads\Test ARMO.zip\Test ARMO\Test ARMO\bin\Debug\Test ARMO.pdb
+C:\Users\Vladimir Unwavering\Downloads\Test ARMO.zip\Test ARMO\Test ARMO\obj\Debug\Test ARMO.csprojAssemblyReference.cache
+C:\Users\Vladimir Unwavering\Downloads\Test ARMO.zip\Test ARMO\Test ARMO\obj\Debug\Test_ARMO.Form1.resources
+C:\Users\Vladimir Unwavering\Downloads\Test ARMO.zip\Test ARMO\Test ARMO\obj\Debug\Test_ARMO.Properties.Resources.resources
+C:\Users\Vladimir Unwavering\Downloads\Test ARMO.zip\Test ARMO\Test ARMO\obj\Debug\Test ARMO.csproj.GenerateResource.cache
+C:\Users\Vladimir Unwavering\Downloads\Test ARMO.zip\Test ARMO\Test ARMO\obj\Debug\Test ARMO.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Unwavering\Downloads\Test ARMO.zip\Test ARMO\Test ARMO\obj\Debug\Test ARMO.exe
+C:\Users\Vladimir Unwavering\Downloads\Test ARMO.zip\Test ARMO\Test ARMO\obj\Debug\Test ARMO.pdb
+C:\Users\1\Downloads\Test ARMO.zip\Test ARMO.zip\Test ARMO\Test ARMO\bin\Debug\Test ARMO.exe.config
+C:\Users\1\Downloads\Test ARMO.zip\Test ARMO.zip\Test ARMO\Test ARMO\bin\Debug\Test ARMO.exe
+C:\Users\1\Downloads\Test ARMO.zip\Test ARMO.zip\Test ARMO\Test ARMO\bin\Debug\Test ARMO.pdb
+C:\Users\1\Downloads\Test ARMO.zip\Test ARMO.zip\Test ARMO\Test ARMO\obj\Debug\Test ARMO.csprojAssemblyReference.cache
+C:\Users\1\Downloads\Test ARMO.zip\Test ARMO.zip\Test ARMO\Test ARMO\obj\Debug\Test_ARMO.Form1.resources
+C:\Users\1\Downloads\Test ARMO.zip\Test ARMO.zip\Test ARMO\Test ARMO\obj\Debug\Test_ARMO.Properties.Resources.resources
+C:\Users\1\Downloads\Test ARMO.zip\Test ARMO.zip\Test ARMO\Test ARMO\obj\Debug\Test ARMO.csproj.GenerateResource.cache
+C:\Users\1\Downloads\Test ARMO.zip\Test ARMO.zip\Test ARMO\Test ARMO\obj\Debug\Test ARMO.csproj.CoreCompileInputs.cache
+C:\Users\1\Downloads\Test ARMO.zip\Test ARMO.zip\Test ARMO\Test ARMO\obj\Debug\Test ARMO.exe
+C:\Users\1\Downloads\Test ARMO.zip\Test ARMO.zip\Test ARMO\Test ARMO\obj\Debug\Test ARMO.pdb
